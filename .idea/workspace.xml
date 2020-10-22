@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CardTest" targetName="CardTest" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a8b1a72-39cf-4373-bbf2-b76471904937" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="CardTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/52Cards.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Card.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PokerHand.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Player.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1145">
+              <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dealer.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Game.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+              <folding>
+                <element signature="e#60#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sort</find>
+      <find>require</find>
+      <find>full</find>
+      <find>operation ==</find>
+      <find>Straight Flush</find>
+      <find>pot=</find>
+      <find>.Re</find>
+      <find>pot</find>
+      <find>Players</find>
+      <find>Hand</find>
+      <find>SetPl</find>
+      <find>HighHand</find>
+      <find>return Hand</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/catch.hpp" />
+        <option value="$PROJECT_DIR$/CardTest.cpp" />
+        <option value="$PROJECT_DIR$/PokerHand.h" />
+        <option value="$PROJECT_DIR$/52Cards.hpp" />
+        <option value="$PROJECT_DIR$/PokerHandTest.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/Dealer.hpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/catch-main.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Game.cpp" />
+        <option value="$PROJECT_DIR$/Dealer.hpp" />
+        <option value="$PROJECT_DIR$/Player.hpp" />
+        <option value="$PROJECT_DIR$/PokerHand.hpp" />
+        <option value="$PROJECT_DIR$/Card.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="720" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CardTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CardTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CardTest">
+    <configuration name="FULLHOUSE_PAIRS" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CardTest" TARGET_NAME="CardTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CardTest" RUN_TARGET_NAME="CardTest" TEST_METHOD="FULLHOUSE_PAIRS" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HighCard6" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CardTest" TARGET_NAME="CardTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CardTest" RUN_TARGET_NAME="CardTest" TEST_METHOD="HighCard6" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HighCard7" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CardTest" TARGET_NAME="CardTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CardTest" RUN_TARGET_NAME="CardTest" TEST_METHOD="HighCard7" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TEST_STRT/FLUSH" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CardTest" TARGET_NAME="CardTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CardTest" RUN_TARGET_NAME="CardTest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testHighCard2 (2)" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CardTest" TARGET_NAME="catch-main.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CardTest" RUN_TARGET_NAME="catch-main.cpp" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testHighCard2" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CardTest" TARGET_NAME="catch-main.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CardTest" RUN_TARGET_NAME="catch-main.cpp" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testThreeMiddle3AreTheSameForCodeCoverage" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CardTest" TARGET_NAME="CardTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CardTest" RUN_TARGET_NAME="CardTest" TEST_METHOD="testThreeMiddle3AreTheSameForCodeCoverage" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CardTest" TARGET_NAME="CardTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CardTest" RUN_TARGET_NAME="CardTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CardTest" />
+      <item itemvalue="Catch.testHighCard2 (2)" />
+      <item itemvalue="Catch.testHighCard2" />
+      <item itemvalue="Catch.HighCard6" />
+      <item itemvalue="Catch.HighCard7" />
+      <item itemvalue="Catch.testThreeMiddle3AreTheSameForCodeCoverage" />
+      <item itemvalue="Catch.FULLHOUSE_PAIRS" />
+      <item itemvalue="Catch.TEST_STRT/FLUSH" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Catch.TEST_STRT/FLUSH" />
+        <item itemvalue="Catch.FULLHOUSE_PAIRS" />
+        <item itemvalue="Catch.testThreeMiddle3AreTheSameForCodeCoverage" />
+        <item itemvalue="Catch.HighCard7" />
+        <item itemvalue="Catch.HighCard6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a8b1a72-39cf-4373-bbf2-b76471904937" name="Default Changelist" comment="" />
+      <created>1553069096601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553069096601</updated>
+      <workItem from="1553069104326" duration="1320000" />
+      <workItem from="1553096892165" duration="482000" />
+      <workItem from="1553098183814" duration="1200000" />
+      <workItem from="1553108448382" duration="270000" />
+      <workItem from="1553108775450" duration="172000" />
+      <workItem from="1553108950996" duration="63000" />
+      <workItem from="1553109054427" duration="1559000" />
+      <workItem from="1553110655806" duration="44000" />
+      <workItem from="1553110733592" duration="2039000" />
+      <workItem from="1553113457436" duration="143000" />
+      <workItem from="1553203426817" duration="1066000" />
+      <workItem from="1553275787322" duration="6335000" />
+      <workItem from="1553291265738" duration="3202000" />
+      <workItem from="1553439637910" duration="604000" />
+      <workItem from="1553534564130" duration="34016000" />
+      <workItem from="1553612337384" duration="11862000" />
+      <workItem from="1553648922634" duration="1146000" />
+      <workItem from="1553653664257" duration="5010000" />
+      <workItem from="1553741754073" duration="2030000" />
+      <workItem from="1554062173717" duration="1019000" />
+      <workItem from="1554423986580" duration="44847000" />
+      <workItem from="1554926412666" duration="289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HighCard3 - 2019.03.27 at 23h 07m 14s.xml">
+      <configuration name="HighCard3" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="HighCard4 - 2019.03.27 at 23h 07m 23s.xml">
+      <configuration name="HighCard4" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="HighCard5 - 2019.03.27 at 23h 08m 09s.xml">
+      <configuration name="HighCard5" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="HighCard6 - 2019.03.27 at 23h 08m 48s.xml">
+      <configuration name="HighCard6" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="HighCard7 - 2019.03.27 at 23h 09m 54s.xml">
+      <configuration name="HighCard7" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="testThreeMiddle3AreTheSameForCodeCoverage - 2019.03.27 at 23h 12m 04s.xml">
+      <configuration name="testThreeMiddle3AreTheSameForCodeCoverage" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FULLHOUSE_PAIRS - 2019.03.27 at 23h 13m 53s.xml">
+      <configuration name="FULLHOUSE_PAIRS" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="TEST_STRT_FLUSH - 2019.03.27 at 23h 15m 42s.xml">
+      <configuration name="TEST_STRT/FLUSH" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="TEST_STRT_FLUSH - 2019.03.31 at 12h 58m 14s.xml">
+      <configuration name="TEST_STRT/FLUSH" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="TEST_STRT_FLUSH - 2019.03.31 at 13h 10m 00s.xml">
+      <configuration name="TEST_STRT/FLUSH" configurationId="CMakeCatchTestRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="118718000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.17310444" />
+      <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.16165951" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.3297568" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3759036" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5060241" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.38313252" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32866243" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" weight="0.17095852" />
+      <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.16165951" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.3297568" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38853502" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5060241" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.38343948" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32866243" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/52Cards.hpp</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PokerHand.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Dealer.hpp" />
+    <entry file="file://$PROJECT_DIR$/PokerHandTest.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="622" selection-start-line="622" selection-end-line="622" />
+          <folding>
+            <element signature="e#57#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp" />
+    <entry file="file://$PROJECT_DIR$/catch-main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#76#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16879" column="32" selection-start-line="16879" selection-start-column="10" selection-end-line="16879" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/algorithm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="2927" column="21" selection-start-line="2927" selection-start-column="21" selection-end-line="2927" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CardTest.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <folding>
+            <element signature="e#60#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/52Cards.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Card.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokerHand.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Player.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1145">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dealer.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
